@@ -1,0 +1,3 @@
+# automating shiets in Python
+
+    
