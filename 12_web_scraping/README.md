@@ -29,3 +29,11 @@ Saving Downloaded Files to the Hard Drive
     open(), close()
     write()
     wb - write binary (you need to write binary data instead of text data in order to maintain the Unicode encoding of the text.)
+
+
+Hypertext Markup Language (HTML) 
+    HTML is the format that web pages are written in.
+        tags
+        elements
+        text (inner HTML)
+        
